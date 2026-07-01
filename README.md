@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/harshbatham2444/Data_structure/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/harshbatham2444/Data_structure/tree/master/0023-merge-k-sorted-lists) |
 | [0191-number-of-1-bits](https://github.com/harshbatham2444/Data_structure/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -40,4 +41,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/harshbatham2444/Data_structure/tree/master/0004-median-of-two-sorted-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/harshbatham2444/Data_structure/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/harshbatham2444/Data_structure/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/harshbatham2444/Data_structure/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
