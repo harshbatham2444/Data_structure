@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/harshbatham2444/Data_structure/tree/master/0004-median-of-two-sorted-arrays) |
+| [0049-group-anagrams](https://github.com/harshbatham2444/Data_structure/tree/master/0049-group-anagrams) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,4 +54,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harshbatham2444/Data_structure/tree/master/0023-merge-k-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/harshbatham2444/Data_structure/tree/master/0049-group-anagrams) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/harshbatham2444/Data_structure/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/harshbatham2444/Data_structure/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
