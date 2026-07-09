@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/harshbatham2444/Data_structure/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/harshbatham2444/Data_structure/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/harshbatham2444/Data_structure/tree/master/0091-decode-ways) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harshbatham2444/Data_structure/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/harshbatham2444/Data_structure/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/harshbatham2444/Data_structure/tree/master/0091-decode-ways) |
 ## Stack
 |  |
 | ------- |
