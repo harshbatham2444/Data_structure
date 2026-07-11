@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/harshbatham2444/Data_structure/tree/master/0062-unique-paths) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/harshbatham2444/Data_structure/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Divide and Conquer
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harshbatham2444/Data_structure/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/harshbatham2444/Data_structure/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/harshbatham2444/Data_structure/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/harshbatham2444/Data_structure/tree/master/0091-decode-ways) |
 ## Stack
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/harshbatham2444/Data_structure/tree/master/0046-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/harshbatham2444/Data_structure/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
