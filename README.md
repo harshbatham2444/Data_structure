@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/harshbatham2444/Data_structure/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/harshbatham2444/Data_structure/tree/master/0191-number-of-1-bits) |
 ## Array
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/harshbatham2444/Data_structure/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/harshbatham2444/Data_structure/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/harshbatham2444/Data_structure/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/harshbatham2444/Data_structure/tree/master/0078-subsets) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/harshbatham2444/Data_structure/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/harshbatham2444/Data_structure/tree/master/0078-subsets) |
 ## Combinatorics
 |  |
 | ------- |
