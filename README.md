@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/harshbatham2444/Data_structure/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshbatham2444/Data_structure/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/harshbatham2444/Data_structure/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/harshbatham2444/Data_structure/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/harshbatham2444/Data_structure/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/harshbatham2444/Data_structure/tree/master/0049-group-anagrams) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/harshbatham2444/Data_structure/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/harshbatham2444/Data_structure/tree/master/0033-search-in-rotated-sorted-array) |
 ## Linked List
 |  |
 | ------- |
