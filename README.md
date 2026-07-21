@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/harshbatham2444/Data_structure/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/harshbatham2444/Data_structure/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/harshbatham2444/Data_structure/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/harshbatham2444/Data_structure/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harshbatham2444/Data_structure/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/harshbatham2444/Data_structure/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/harshbatham2444/Data_structure/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/harshbatham2444/Data_structure/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harshbatham2444/Data_structure/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/harshbatham2444/Data_structure/tree/master/0148-sort-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/harshbatham2444/Data_structure/tree/master/0049-group-anagrams) |
+| [0148-sort-list](https://github.com/harshbatham2444/Data_structure/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshbatham2444/Data_structure/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/harshbatham2444/Data_structure/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/harshbatham2444/Data_structure/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/harshbatham2444/Data_structure/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
 | ------- |
