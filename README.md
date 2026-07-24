@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/harshbatham2444/Data_structure/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/harshbatham2444/Data_structure/tree/master/0062-unique-paths) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/harshbatham2444/Data_structure/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Divide and Conquer
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/harshbatham2444/Data_structure/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harshbatham2444/Data_structure/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/harshbatham2444/Data_structure/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/harshbatham2444/Data_structure/tree/master/0141-linked-list-cycle) |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/harshbatham2444/Data_structure/tree/master/0062-unique-paths) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/harshbatham2444/Data_structure/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
