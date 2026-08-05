@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshbatham2444/Data_structure/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/harshbatham2444/Data_structure/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/harshbatham2444/Data_structure/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/harshbatham2444/Data_structure/tree/master/0072-edit-distance) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshbatham2444/Data_structure/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/harshbatham2444/Data_structure/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harshbatham2444/Data_structure/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshbatham2444/Data_structure/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshbatham2444/Data_structure/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/harshbatham2444/Data_structure/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/harshbatham2444/Data_structure/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/harshbatham2444/Data_structure/tree/master/0072-edit-distance) |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/harshbatham2444/Data_structure/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/harshbatham2444/Data_structure/tree/master/0021-merge-two-sorted-lists) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshbatham2444/Data_structure/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
