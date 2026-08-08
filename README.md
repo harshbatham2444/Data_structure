@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/harshbatham2444/Data_structure/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/harshbatham2444/Data_structure/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/harshbatham2444/Data_structure/tree/master/0062-unique-paths) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/harshbatham2444/Data_structure/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Divide and Conquer
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/harshbatham2444/Data_structure/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/harshbatham2444/Data_structure/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/harshbatham2444/Data_structure/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/harshbatham2444/Data_structure/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/harshbatham2444/Data_structure/tree/master/0141-linked-list-cycle) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshbatham2444/Data_structure/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/harshbatham2444/Data_structure/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/harshbatham2444/Data_structure/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/harshbatham2444/Data_structure/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/harshbatham2444/Data_structure/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/harshbatham2444/Data_structure/tree/master/0091-decode-ways) |
