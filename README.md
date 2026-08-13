@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/harshbatham2444/Data_structure/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/harshbatham2444/Data_structure/tree/master/0078-subsets) |
 | [0283-move-zeroes](https://github.com/harshbatham2444/Data_structure/tree/master/0283-move-zeroes) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/harshbatham2444/Data_structure/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/harshbatham2444/Data_structure/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/harshbatham2444/Data_structure/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/harshbatham2444/Data_structure/tree/master/0091-decode-ways) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/harshbatham2444/Data_structure/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Sorting
 |  |
 | ------- |
@@ -155,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/harshbatham2444/Data_structure/tree/master/0014-longest-common-prefix) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/harshbatham2444/Data_structure/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/harshbatham2444/Data_structure/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
