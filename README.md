@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/harshbatham2444/Data_structure/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/harshbatham2444/Data_structure/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/harshbatham2444/Data_structure/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/harshbatham2444/Data_structure/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/harshbatham2444/Data_structure/tree/master/0078-subsets) |
 | [0283-move-zeroes](https://github.com/harshbatham2444/Data_structure/tree/master/0283-move-zeroes) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/harshbatham2444/Data_structure/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/harshbatham2444/Data_structure/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/harshbatham2444/Data_structure/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/harshbatham2444/Data_structure/tree/master/0078-subsets) |
 ## Combinatorics
 |  |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshbatham2444/Data_structure/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/harshbatham2444/Data_structure/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
