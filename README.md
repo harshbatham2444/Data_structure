@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/harshbatham2444/Data_structure/tree/master/0078-subsets) |
 | [0283-move-zeroes](https://github.com/harshbatham2444/Data_structure/tree/master/0283-move-zeroes) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/harshbatham2444/Data_structure/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshbatham2444/Data_structure/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Binary Search
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/harshbatham2444/Data_structure/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/harshbatham2444/Data_structure/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/harshbatham2444/Data_structure/tree/master/0091-decode-ways) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshbatham2444/Data_structure/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Stack
 |  |
 | ------- |
@@ -165,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/harshbatham2444/Data_structure/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Matrix
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshbatham2444/Data_structure/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshbatham2444/Data_structure/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
