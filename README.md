@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/harshbatham2444/Data_structure/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/harshbatham2444/Data_structure/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/harshbatham2444/Data_structure/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/harshbatham2444/Data_structure/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/harshbatham2444/Data_structure/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/harshbatham2444/Data_structure/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/harshbatham2444/Data_structure/tree/master/0091-decode-ways) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshbatham2444/Data_structure/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/harshbatham2444/Data_structure/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/harshbatham2444/Data_structure/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/harshbatham2444/Data_structure/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/harshbatham2444/Data_structure/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/harshbatham2444/Data_structure/tree/master/0072-edit-distance) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/harshbatham2444/Data_structure/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/harshbatham2444/Data_structure/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/harshbatham2444/Data_structure/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/harshbatham2444/Data_structure/tree/master/0078-subsets) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/harshbatham2444/Data_structure/tree/master/0022-generate-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/harshbatham2444/Data_structure/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Algorithm X
 |  |
