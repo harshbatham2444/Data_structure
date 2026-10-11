@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/harshbatham2444/Data_structure/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/harshbatham2444/Data_structure/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/harshbatham2444/Data_structure/tree/master/0049-group-anagrams) |
+| [0065-valid-number](https://github.com/harshbatham2444/Data_structure/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/harshbatham2444/Data_structure/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/harshbatham2444/Data_structure/tree/master/0091-decode-ways) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/harshbatham2444/Data_structure/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
